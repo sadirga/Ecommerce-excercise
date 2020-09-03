@@ -51,9 +51,6 @@ __Expected Output__ :
 ```python
 99.99
 ```
-```python
-
-```
 __Expected Output__ :  
 ```python
 0
