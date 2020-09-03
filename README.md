@@ -21,5 +21,6 @@ ecom = pd.read_csv(r'filepath') #filepath depends on where you save your csv fil
 ```
 ecom.head()
 ```
-![ss](Screenshot_7.png)
+![ss](/Screenshot_7.png)
+
 
