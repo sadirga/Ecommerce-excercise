@@ -160,7 +160,7 @@ __Expected Output__ :
 1033
 ```
 
-✅ Hard: What are the top 5 most popular email providers/hosts (e.g. gmail.com, yahoo.com, etc...) 
+✅ Hard: What are the top 5 most popular email providers/hosts (e.g. gmail.com, yahoo.com, etc...)  
 *Hint (Use loop or lambda expression to get the data) 
 ```python
 
