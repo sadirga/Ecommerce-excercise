@@ -22,13 +22,13 @@ ecom = pd.read_csv(r'filepath') #filepath depends on where you save your csv fil
 ```
 ecom.head()
 ```
-![ss1](/ss1.png)
+![ss1](/ss1.png) \
 
 ✅ How many rows and columns are there?
 ```python
 
 ```
-__Expected Output__ :
+__Expected Output__ :\
 ```python
 (10000, 14)
 ```
@@ -36,7 +36,7 @@ __Expected Output__ :
 ```python
 
 ```
-__Expected Output__ :
+__Expected Output__ :\
 ```python
 50.34730200000025
 ```
@@ -44,14 +44,14 @@ __Expected Output__ :
 ```python
 
 ```
-__Expected Output__ :
+__Expected Output__ :\
 ```python
 99.99
 ```
 ```python
 
 ```
-__Expected Output__ :
+__Expected Output__ :\
 ```python
 0
 ```
@@ -59,21 +59,21 @@ __Expected Output__ :
 ```python
 
 ```
-__Expected Output__ :
+__Expected Output__ :\
 ![ss](/ss2.png)
 
 ✅ How many people have the job title of "Lawyer" ?
 ```python
 
 ```
-__Expected Output__ :
+__Expected Output__ :\
 ![ss](/ss3.png)
 ✅ How many people made the purchase during the AM and how many people made the purchase during PM ? 
 *(Hint: Check out value_counts()) 
 ```python
 
 ```
-__Expected Output__ :
+__Expected Output__ :\
 ```python
 PM    5068
 AM    4932
@@ -83,7 +83,7 @@ Name: AM or PM, dtype: int64
 ```python
 
 ```
-__Expected Output__ :
+__Expected Output__ : \
 ```python
 Interior and spatial designer    31
 Lawyer                           30
